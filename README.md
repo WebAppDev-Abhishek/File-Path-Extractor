@@ -55,4 +55,9 @@ A modern, efficient file scanning and management tool built with Rust and egui. 
 
 - Rust 1.70 or higher
 - Windows OS (uses Windows-specific file attributes)
-- 4GB RAM recommended for large directories 
+- 4GB RAM recommended for large directories
+
+  ![Screenshot 2025-05-23 020907](https://github.com/user-attachments/assets/b4d645c9-2e5c-4a08-9ef3-869106c798b6)
+
+  
+  ![Screenshot 2025-05-23 020754](https://github.com/user-attachments/assets/3d6bf9b2-2e25-4291-bb0a-4f636cdf6848)
